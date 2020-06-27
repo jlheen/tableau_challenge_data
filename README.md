@@ -1,7 +1,7 @@
 # tableau_challenge_data
 
 # Welcome 
-to my data manipulation for this completed Tableau workbook:
+To the data manipulation for this completed Tableau workbook:
 https://public.tableau.com/profile/jodi6928#!/vizhome/Tableau_Challenge_15931460119310/StartStations
 
 # Dataset
