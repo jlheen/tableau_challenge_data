@@ -1,6 +1,8 @@
 # tableau_challenge_data
 
-# Welcome to my data manipulation for this completed Tableau workbook: https://public.tableau.com/profile/jodi6928#!/vizhome/Tableau_Challenge_15931460119310/StartStations
+# Welcome 
+to my data manipulation for this completed Tableau workbook:
+https://public.tableau.com/profile/jodi6928#!/vizhome/Tableau_Challenge_15931460119310/StartStations
 
 # Dataset
 This data comes from the Citi Bike Station system site, found here: https://www.citibikenyc.com/system-data
